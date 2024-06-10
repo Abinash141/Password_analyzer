@@ -54,3 +54,12 @@ check_button = ttk.Button(root, text="Check Password", command=on_check_password
 check_button.pack(pady=20)
 
 root.mainloop()
+'''
+Support On
+
+LinkedIn = https://www.linkedin.com/in/abinash-kumar-sinha-318331250
+GitHub = https://github.com/Abinash141
+
+
+Thank You
+'''
